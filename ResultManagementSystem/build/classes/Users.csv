@@ -1,0 +1,15 @@
+UserID,Password,Role,FirstName,LastName,Class
+S001,welcome,Student,Student1,Bhavana,BCA_2nd_Sem
+A001,welcome1,Admin,Admin,Bhavana,
+S002,welcome2,Student,Student2,Pragati,BCA_4th_Sem
+C001,welcome,Company,TCS,admin,TCS
+T001,welcome,TPO,TPO,admin,
+S003,hello,Student,Student3,Pallavi,BCA_5th_Sem
+S004,hello1,Student,Student4,Apoorva,BCA_5th_Sem
+C002,welcome,Company,TCS,admin,WIPRO
+S005,hello2,Student,Student5,Ram,BCA_1st_Sem
+S006,hello1,Student,Student6,Sudu,BCA_1st_Sem
+S007,hello3,Student,Student7,Priya,BCA_3rd_Sem
+S008,hello3,Student,Student8,Nikitha,BCA_3rd_Sem
+C004,welcome,Company,SAP,admin,SAP
+C003,welcome,Company,MINDTREE,admin,MINDTREE
